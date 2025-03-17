@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "price": 10.5,
+      "release_date": "2024-03-17",
+      "image_data": "SGVsbG8gd29ybGQ=",
+      "category": "Electronics",
+      "tags": ["Gadget", "Mobile"]
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro",
+      "price": 20.75,
+      "release_date": "2024-03-16",
+      "image_data": "U29tZSBiaW5hcnkgZGF0YQ==",
+      "category": "Computers",
+      "tags": ["Work", "Gaming"]
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds",
+      "price": 15.25,
+      "release_date": "2024-03-15",
+      "image_data": "QmluYXJ5IHZhbHVl",
+      "category": "Audio",
+      "tags": ["Gadget", "Music"]
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch 5",
+      "price": 18.9,
+      "release_date": "2024-03-14",
+      "image_data": "RGF0YSBpbiBiaW5hcnk=",
+      "category": "Wearables",
+      "tags": ["Fitness"]
+    },
+    {
+      "id": 5,
+      "name": "Gaming Console",
+      "price": 25.6,
+      "release_date": "2024-03-13",
+      "image_data": "U2FtcGxlIGJpbmFyeSBkYXRh",
+      "category": "Gaming",
+      "tags": ["Entertainment", "Gadget", "Multiplayer"]
+    },
+    {
+      "id": 6,
+      "name": "4K Smart TV",
+      "price": 30.45,
+      "release_date": "2024-03-12",
+      "image_data": "QW5vdGhlciBiaW5hcnkgc3RyaW5n",
+      "category": "Home Entertainment",
+      "tags": ["Movies"]
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "price": 12.8,
+      "release_date": "2024-03-11",
+      "image_data": "U29tZSBvdGhlciB2YWx1ZQ==",
+      "category": "Audio",
+      "tags": ["Portable"]
+    },
+    {
+      "id": 8,
+      "name": "Mechanical Keyboard",
+      "price": 22.3,
+      "release_date": "2024-03-10",
+      "image_data": "QmluYXJ5IGV4YW1wbGU=",
+      "category": "Computers",
+      "tags": ["Work", "Gaming"]
+    },
+    {
+      "id": 9,
+      "name": "Drone Camera",
+      "price": 28.75,
+      "release_date": "2024-03-09",
+      "image_data": "RW5jb2RlZCBkYXRh",
+      "category": "Photography",
+      "tags": ["Aerial", "Gadget"]
+    },
+    {
+      "id": 10,
+      "name": "VR Headset",
+      "price": 35.9,
+      "release_date": "2024-03-08",
+      "image_data": "U3BlY2lmaWMgYmluYXJ5IHZhbHVl",
+      "category": "Virtual Reality",
+      "tags": ["Gaming", "Experience"]
+    }
+  ]
+}
